@@ -1,0 +1,23 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruNisa/curso_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruNisa/curso_node/issues"
+  },
+  "homepage": "https://github.com/bruNisa/curso_node#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
